@@ -1,3 +1,5 @@
-Title,Latitude,Longitude
-Trinity College,41.745167,-72.69263
-Wesleyan University,41.55709,-72.65691
+Title,Image,Description,Address,Latitude,Longitude
+St poelten,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",48.6240036,15.3288925
+Steinbruch,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",48.6863779,15.8544838
+Kirche,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",48.6850698,15.85860623
+Pulkau,https://stpoelten.topothek.at/#ipp=100&p=1&searchterm=&t=1%2C2%2C4%2C5%2C7&sf=chk_docname%2Cchk_mainkeywords%2Cchk_subkeywords&vp=false&sort=publish_date&sortdir=desc,State government office,"210 Capitol Ave, Hartford CT 06106",48.6831431,15.8533808
